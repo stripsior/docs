@@ -13,33 +13,7 @@
       {
         "group": "Getting started",
         "pages": [
-          "index",
-          "quickstart",
-          "development"
-        ]
-      },
-      {
-        "group": "Customization",
-        "pages": [
-          "essentials/settings",
-          "essentials/navigation"
-        ]
-      },
-      {
-        "group": "Writing content",
-        "pages": [
-          "essentials/markdown",
-          "essentials/code",
-          "essentials/images",
-          "essentials/reusable-snippets"
-        ]
-      },
-      {
-        "group": "AI tools",
-        "pages": [
-          "ai-tools/cursor",
-          "ai-tools/claude-code",
-          "ai-tools/windsurf"
+          "index"
         ]
       }
     ],
@@ -47,25 +21,20 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.cortano.app",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://cortano.app/blog",
           "icon": "newspaper"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://upload.cortano.app/logos/logo.svg",
+    "dark": "https://upload.cortano.app/logos/logo.svg"
   },
   "navbar": {
     "links": [
