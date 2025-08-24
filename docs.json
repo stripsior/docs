@@ -4,8 +4,8 @@
   "name": "Cortano",
   "colors": {
     "primary": "#66C72E",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#66C72E",
+    "dark": "#66C72E"
   },
   "favicon": "/favicon.svg",
   "navigation": {
