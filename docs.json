@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Cortano",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#66C72E",
+    "light": "#66C72E",
+    "dark": "#66C72E"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -96,13 +96,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hello@cortano.app"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://cortano.app"
     }
   },
   "contextual": {
@@ -119,9 +119,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/cortanodotapp",
+      "github": "https://github.com/cortanodotapp",
+      "instagram": "https://instagram.com/cortanodotapp"
     }
   }
 }
