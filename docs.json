@@ -7,7 +7,7 @@
     "light": "#66C72E",
     "dark": "#66C72E"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://upload.cortano.app/logos/logo.svg",
   "navigation": {
     "groups": [
       {
